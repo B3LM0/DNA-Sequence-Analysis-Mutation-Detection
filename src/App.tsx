@@ -16,7 +16,6 @@ function App() {
               Bioinformatics DNA Analysis
             </h1>
           </div>
-          <p className="text-gray-600">Teaching Project - Sequence Analysis Tool</p>
         </header>
 
         <div className="mb-6">
@@ -53,7 +52,7 @@ function App() {
         </main>
 
         <footer className="mt-12 text-center text-sm text-gray-600">
-          <p>Bioinformatics TP Project - Educational Purpose</p>
+          <p>BENYAHIA Boualem - Bioinformatics TP Project</p>
         </footer>
       </div>
     </div>
